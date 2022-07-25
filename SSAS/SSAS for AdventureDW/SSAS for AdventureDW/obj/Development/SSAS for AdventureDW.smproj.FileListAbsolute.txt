@@ -1,0 +1,7 @@
+D:\Sandesh\DW+SSIS+SSAS+PBI\SSAS for AdventureDW\SSAS for AdventureDW\bin\Model.asdatabase
+D:\Sandesh\DW+SSIS+SSAS+PBI\SSAS for AdventureDW\SSAS for AdventureDW\bin\Model.deploymenttargets
+D:\Sandesh\DW+SSIS+SSAS+PBI\SSAS for AdventureDW\SSAS for AdventureDW\bin\Model.deploymentoptions
+D:\Sandesh\DW+SSIS+SSAS+PBI\SSAS for AdventureDW\SSAS for AdventureDW\obj\Development\SSAS for AdventureDW.smproj.CoreCompileInputs.cache
+D:\Sandesh\DW+SSIS+SSAS+PBI\SSAS for AdventureDW\SSAS for AdventureDW\obj\Development\Model.asdatabase
+D:\Sandesh\DW+SSIS+SSAS+PBI\SSAS for AdventureDW\SSAS for AdventureDW\obj\Development\Model.deploymentoptions
+D:\Sandesh\DW+SSIS+SSAS+PBI\SSAS for AdventureDW\SSAS for AdventureDW\obj\Development\Model.deploymenttargets
