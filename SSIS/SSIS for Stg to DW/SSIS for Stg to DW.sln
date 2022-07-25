@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS for Stg to DW", "SSIS for Stg to DW\SSIS for Stg to DW.dtproj", "{99625224-EAF8-46DD-B9C0-06B1EA96D255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99625224-EAF8-46DD-B9C0-06B1EA96D255}.Development|Default.ActiveCfg = Development
+		{99625224-EAF8-46DD-B9C0-06B1EA96D255}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF4E734-777C-42FD-AC43-A511B2784427}
+	EndGlobalSection
+EndGlobal
